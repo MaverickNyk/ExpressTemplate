@@ -1,6 +1,6 @@
-# UCClone
+# ExpressTemplate
 
-UCClone is a nodejs template repo to build additional features on top of that.
+ExpressTemplate is a nodejs template repo to build additional features on top of that.
 
 ## Installation
 
