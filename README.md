@@ -15,7 +15,7 @@ npm install
 Use the node deployment command to start the app.
 
 ```bash
-node index.js
+node ./src/index.js
 ```
 ## Contributing
 Pull requests are welcome. For major changes, Please fork this repo and sumbit changes in forked repo.
